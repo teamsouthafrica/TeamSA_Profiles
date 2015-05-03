@@ -16,3 +16,5 @@ Always click the Refresh button before copying the coordinates, to ensure the co
 
 Thank you for using this profile.
 Team South Africa.
+
+P.S.  All profiles can be located in the "trunk" folder after you sync with SVN.
